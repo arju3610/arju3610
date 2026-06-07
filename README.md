@@ -56,16 +56,9 @@ Turning data into insights and building intelligent solutions with Machine Learn
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arju3610&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=arju3610&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arju3610&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ⭐ "Without data, you're just another person with an opinion." — W. Edwards Deming

@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 <h1 align="center">Hi 👋, I'm Arzu</h1>
 <h3 align="center">Aspiring Data Analyst | Data Scientist | AI Enthusiast</h3>
 

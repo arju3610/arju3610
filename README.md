@@ -40,15 +40,11 @@ Turning data into insights and building intelligent solutions with Machine Learn
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=arju3610theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arju3610&theme=aura&hide_border=false" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arju3610&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
----
+
 

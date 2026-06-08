@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Nikhil%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analytics+%F0%9F%93%8A;Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%9A%80;Prompt+Engineering+%F0%9F%A7%A0;Backend+Development+%E2%9A%99%EF%B8%8F" />
+</p>
 <h1 align="center">Hi 👋, I'm Arzu</h1>
 <h3 align="center">Aspiring Data Analyst | Data Scientist | AI Enthusiast</h3>
 
